@@ -35,7 +35,7 @@ public class Camera3D : MonoBehaviour
 	    } 
 	    } 
 	    
-	    if(!GameGlobals.isAlive) {
+		if(!GameGlobals.isAlive||GameGlobals.win) {
 	    	Debug.Log("DesbloqueandoCursor");
 	    	Cursor.lockState = CursorLockMode.None;
 	    }

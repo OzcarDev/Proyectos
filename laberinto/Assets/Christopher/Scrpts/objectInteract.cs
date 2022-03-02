@@ -14,7 +14,7 @@ public class objectInteract : MonoBehaviour
 	private void OnTriggerEnter(Collider other)
     {
 
-	    if (other.gameObject.tag == "Obstacle")
+	    if (other.gameObject.tag == "Obstacle")//revisando si el personaje esta tocando un objeto
         {
 		    isTouchingWall= true;
 		    objeto = other.gameObject;

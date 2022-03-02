@@ -13,11 +13,15 @@ public class Vida : MonoBehaviour
     void Start()
     {
 	    GameGlobals.isAlive = true;
+	    GameGlobals.win = false; 
+	    GameGlobals.vida = 5;
     }
 
     // Update is called once per frame
-    void Update()
+	void Update()
+    
 	{
+		
 		totalTime -= 1*Time.deltaTime;
 		
 		timeCounter.text = ("Tiempo: "+ Mathf.Round(totalTime));
@@ -26,7 +30,7 @@ public class Vida : MonoBehaviour
 			GameGlobals.isAlive= false;
 		}
 		
-		if(totalTime<=0){
+		if(totalTime<=0&&!GameGlobals.win){
 			GameGlobals.isAlive =false;
 		}
 		
@@ -38,6 +42,10 @@ public class Vida : MonoBehaviour
 	 void OnTriggerEnter(Collider other){
 		 
 		 if(GameGlobals.isAlive){
+		 	if(other.gameObject.tag == "Goal"){
+		 		GameGlobals.win = true;
+		 	}
+		 	
 		if(other.gameObject.tag == "Enemy"){
 			
 			GameGlobals.vida = GameGlobals.vida-1;

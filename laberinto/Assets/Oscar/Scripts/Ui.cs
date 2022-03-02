@@ -6,6 +6,7 @@ public class Ui : MonoBehaviour
 {
 	
 	public GameObject gameOver;
+	public GameObject winScreen;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,6 +22,13 @@ public class Ui : MonoBehaviour
 	    	
 	    } else if(GameGlobals.isAlive){
 	    	gameOver.SetActive(false);
+	    }
+	    
+	    if(GameGlobals.win){
+	    	winScreen.SetActive(true);
+	    	
+	    } else if(!GameGlobals.win){
+	    	winScreen.SetActive(false);
 	    }
     }
 }
