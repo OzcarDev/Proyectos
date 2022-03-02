@@ -19,7 +19,9 @@ public class Camera3D : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+	{
+    	
+		Debug.Log(GameGlobals.isAlive);
 	    float hor = Input.GetAxis("Mouse X");
 	    float ver = Input.GetAxis("Mouse Y");
 	    if(GameGlobals.isAlive){
@@ -30,8 +32,12 @@ public class Camera3D : MonoBehaviour
 	    
 	    if(ver != 0){
 	    	camera.Rotate(Vector3.left*ver*sensibility.y);
-	    } } else {
-	    	Cursor.lockState = CursorLockMode.Confined;
+	    } 
+	    } 
+	    
+	    if(!GameGlobals.isAlive) {
+	    	Debug.Log("DesbloqueandoCursor");
+	    	Cursor.lockState = CursorLockMode.None;
 	    }
     }
 }
