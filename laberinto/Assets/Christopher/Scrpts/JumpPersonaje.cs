@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -16,11 +16,11 @@ public class JumpPersonaje : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        
+	    if(GameGlobals.isAlive){
         if (Input.GetKey(KeyCode.Space)&& Grounded)
         {
             rb.AddForce(new Vector3(0, force, 0), ForceMode.Impulse);
-        }
+        } }
         
     }
     private void OnCollisionEnter(Collision other)

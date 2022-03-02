@@ -26,6 +26,9 @@ public class Vida : MonoBehaviour
 			GameGlobals.isAlive= false;
 		}
 		
+		if(totalTime<=0){
+			GameGlobals.isAlive =false;
+		}
 		
 		
 	    

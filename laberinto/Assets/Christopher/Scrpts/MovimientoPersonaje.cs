@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -16,9 +16,10 @@ public class MovimientoPersonaje : MonoBehaviour
     {
         float h = Input.GetAxis("Horizontal");
         float v = Input.GetAxis("Vertical");
-
+	    if(GameGlobals.isAlive){
         transform.Translate(h * force * Time.deltaTime, 0, 0);
-        transform.Translate(0,0, v * force * Time.deltaTime);
+		    transform.Translate(0,0, v * force * Time.deltaTime);
+	    }
 
 
     }
