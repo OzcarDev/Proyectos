@@ -7,6 +7,9 @@ public class Player : MonoBehaviour
 	public Rigidbody2D rb;
 	public float fuerza;
 
+
+	
+
 	void Update()
 	{
 		Salto();
