@@ -16,16 +16,22 @@ public class JumpPersonaje : MonoBehaviour
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
-	    if(GameGlobals.isAlive){ //verificar si el jugador sigue vivo 
-		    if (Input.GetKey(KeyCode.Space)&& Grounded)//verificar el inout y si el jugador esta tocando el suelo 
+	    if(GameGlobals.isAlive){
+		    if (Input.GetKey(KeyCode.Space)&& Grounded) 
         {
-			    rb.AddForce(new Vector3(0, force, 0), ForceMode.Impulse);//impulsar el rigidbody para saltar
+			    Jump();
         } }
         
     }
-	private void OnCollisionEnter(Collision other)//checar si esta colisionando
+    
+	private void Jump(){
+		rb.AddForce(new Vector3(0, force, 0), ForceMode.Impulse);
+	}
+    
+    
+	private void OnCollisionEnter(Collision other)
     {
 	    if (other.gameObject.tag == "Ground")
         {

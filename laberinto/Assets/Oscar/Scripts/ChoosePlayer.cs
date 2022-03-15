@@ -9,18 +9,8 @@ public class ChoosePlayer : MonoBehaviour
 	
 	public void Spects(){
 		GameGlobals.Velocity = newVelocity;
-		GameGlobals.JumpForce = newForce; 
-		
+		GameGlobals.JumpForce = newForce; 		
 		
 	}
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }

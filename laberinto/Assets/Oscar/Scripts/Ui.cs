@@ -7,28 +7,30 @@ public class Ui : MonoBehaviour
 	
 	public GameObject gameOver;
 	public GameObject winScreen;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
+ 
     void Update()
     {
-	    if(!GameGlobals.isAlive ){
-	    	gameOver.SetActive(true);
-	    	
-	    	
-	    } else if(GameGlobals.isAlive){
-	    	gameOver.SetActive(false);
-	    }
+	    GameOver();
 	    
-	    if(GameGlobals.win){
-	    	winScreen.SetActive(true);
-	    	
-	    } else if(!GameGlobals.win){
-	    	winScreen.SetActive(false);
-	    }
+	    Win();
     }
+    
+	private void GameOver(){
+		if(!GameGlobals.isAlive ){
+			gameOver.SetActive(true);
+	    	
+	    	
+		} else if(GameGlobals.isAlive){
+			gameOver.SetActive(false);
+		}
+	}
+	
+	private void Win(){
+		if(GameGlobals.win){
+			winScreen.SetActive(true);
+	    	
+		} else if(!GameGlobals.win){
+			winScreen.SetActive(false);
+		}
+	}
 }

@@ -21,10 +21,12 @@ public class Vida : MonoBehaviour
 	void Update()
     
 	{
+		Timer();
+		LifeCounter();
 		
-		totalTime -= 1*Time.deltaTime;
-		
-		timeCounter.text = ("Tiempo: "+ Mathf.Round(totalTime));
+	}
+    
+	private void LifeCounter(){
 		
 		if(GameGlobals.vida<=0){
 			GameGlobals.isAlive= false;
@@ -37,7 +39,18 @@ public class Vida : MonoBehaviour
 		
 	    
 		lifeCounter.text = ("Vida: "+GameGlobals.vida);
-    }
+	}
+    
+    
+	private void Timer(){
+		
+		if(totalTime>0) totalTime -= 1*Time.deltaTime;
+		
+		
+		timeCounter.text = ("Tiempo: "+ Mathf.Round(totalTime));
+	}
+	
+	
 	
 	 void OnTriggerEnter(Collider other){
 		 
