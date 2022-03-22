@@ -5,9 +5,9 @@ using UnityEngine;
 public class Coin : MonoBehaviour
 {
 	public int value;
-	public int velocity;
+	public int velocity;  
 	public bool state;
-    
+	public AudioSource audio;
 
     void Update()
     {
@@ -27,6 +27,7 @@ public class Coin : MonoBehaviour
 		if(other.gameObject.tag == "Player"){
 			
 			RunerGameGlobals.points += value;
+			audio.Play();
 			transform.position = new Vector3(-4,-8,0);
 			state = false;
 		}

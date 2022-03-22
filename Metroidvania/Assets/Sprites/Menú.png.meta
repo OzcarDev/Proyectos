@@ -1,0 +1,2124 @@
+fileFormatVersion: 2
+guid: 554cf37abff1fbc41943c3e0a389c24d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 61256790355928625
+    second: "Men\xFA_0"
+  - first:
+      213: -3815165869718411273
+    second: "Men\xFA_1"
+  - first:
+      213: -1652907540908182414
+    second: "Men\xFA_2"
+  - first:
+      213: -1217084023987136769
+    second: "Men\xFA_3"
+  - first:
+      213: 1510124007985873713
+    second: "Men\xFA_4"
+  - first:
+      213: 3617899930628231514
+    second: "Men\xFA_5"
+  - first:
+      213: 4023404078683444700
+    second: "Men\xFA_6"
+  - first:
+      213: -5761061615537318970
+    second: "Men\xFA_7"
+  - first:
+      213: -1270072804889072328
+    second: "Men\xFA_8"
+  - first:
+      213: 2669965563682326717
+    second: "Men\xFA_9"
+  - first:
+      213: -8745121961018519215
+    second: "Men\xFA_10"
+  - first:
+      213: -7976186069979117925
+    second: "Men\xFA_11"
+  - first:
+      213: 4840219587634978034
+    second: "Men\xFA_12"
+  - first:
+      213: -7002372874278258193
+    second: "Men\xFA_13"
+  - first:
+      213: 743273563011068910
+    second: "Men\xFA_14"
+  - first:
+      213: 842334632773291557
+    second: "Men\xFA_15"
+  - first:
+      213: 6895493441740991493
+    second: "Men\xFA_16"
+  - first:
+      213: -6549934047141337714
+    second: "Men\xFA_17"
+  - first:
+      213: 4710275897923332886
+    second: "Men\xFA_18"
+  - first:
+      213: -5049487600329407660
+    second: "Men\xFA_19"
+  - first:
+      213: -2153427231328816196
+    second: "Men\xFA_20"
+  - first:
+      213: -5083175885407613702
+    second: "Men\xFA_21"
+  - first:
+      213: 4118762266587950063
+    second: "Men\xFA_22"
+  - first:
+      213: -4671455068245411839
+    second: "Men\xFA_23"
+  - first:
+      213: -2912934353780662816
+    second: "Men\xFA_24"
+  - first:
+      213: -6257709863056511508
+    second: "Men\xFA_25"
+  - first:
+      213: 2606575752473367650
+    second: "Men\xFA_26"
+  - first:
+      213: 2150020136685934688
+    second: "Men\xFA_27"
+  - first:
+      213: 4029441565206434380
+    second: "Men\xFA_28"
+  - first:
+      213: 7676115889075307844
+    second: "Men\xFA_29"
+  - first:
+      213: 879226923845547591
+    second: "Men\xFA_30"
+  - first:
+      213: 7984273182914839640
+    second: "Men\xFA_31"
+  - first:
+      213: 3446528060424822582
+    second: "Men\xFA_32"
+  - first:
+      213: 4010613608455231056
+    second: "Men\xFA_33"
+  - first:
+      213: 1430558867565990937
+    second: "Men\xFA_34"
+  - first:
+      213: -8405981497758449719
+    second: "Men\xFA_35"
+  - first:
+      213: 8218537474475587309
+    second: "Men\xFA_36"
+  - first:
+      213: -6163650553799600604
+    second: "Men\xFA_37"
+  - first:
+      213: 2935160825786796661
+    second: "Men\xFA_38"
+  - first:
+      213: -3709505185877748718
+    second: "Men\xFA_39"
+  - first:
+      213: 6230207384979640506
+    second: "Men\xFA_40"
+  - first:
+      213: -1089623888471862376
+    second: "Men\xFA_41"
+  - first:
+      213: -2858752025213047493
+    second: "Men\xFA_42"
+  - first:
+      213: -4755169595092111723
+    second: "Men\xFA_43"
+  - first:
+      213: -8994657349581835787
+    second: "Men\xFA_44"
+  - first:
+      213: 8477805808558057451
+    second: "Men\xFA_45"
+  - first:
+      213: -8179126829608150173
+    second: "Men\xFA_46"
+  - first:
+      213: -6347712584160329899
+    second: "Men\xFA_47"
+  - first:
+      213: -7523615738834067908
+    second: "Men\xFA_48"
+  - first:
+      213: -6278010757094778763
+    second: "Men\xFA_49"
+  - first:
+      213: 7775936521954064205
+    second: "Men\xFA_50"
+  - first:
+      213: 1298189809043354183
+    second: "Men\xFA_51"
+  - first:
+      213: 3500046503399385839
+    second: "Men\xFA_52"
+  - first:
+      213: -2903733964229230346
+    second: "Men\xFA_53"
+  - first:
+      213: 6089527739961908856
+    second: "Men\xFA_54"
+  - first:
+      213: -8092713577195216212
+    second: "Men\xFA_55"
+  - first:
+      213: 7598061599971076966
+    second: "Men\xFA_56"
+  - first:
+      213: -9119954158486400203
+    second: "Men\xFA_57"
+  - first:
+      213: -1258283824290082730
+    second: "Men\xFA_58"
+  - first:
+      213: -7395696672456875319
+    second: "Men\xFA_59"
+  - first:
+      213: -2824163165928483966
+    second: "Men\xFA_60"
+  - first:
+      213: 9148781083821649601
+    second: "Men\xFA_61"
+  - first:
+      213: 1264696395567179335
+    second: "Men\xFA_62"
+  - first:
+      213: -1157262554855052339
+    second: "Men\xFA_63"
+  - first:
+      213: 5461485164164278521
+    second: "Men\xFA_64"
+  - first:
+      213: 6228150911904813219
+    second: "Men\xFA_65"
+  - first:
+      213: 7509143303788324426
+    second: "Men\xFA_66"
+  - first:
+      213: 2424527604490210993
+    second: "Men\xFA_67"
+  - first:
+      213: -1633513811933195721
+    second: "Men\xFA_68"
+  - first:
+      213: 1439703852867470239
+    second: "Men\xFA_69"
+  - first:
+      213: -5855697472863743425
+    second: "Men\xFA_70"
+  - first:
+      213: 6384011469703770007
+    second: "Men\xFA_71"
+  - first:
+      213: 2450667565212631189
+    second: "Men\xFA_72"
+  - first:
+      213: -8743042402823273800
+    second: "Men\xFA_73"
+  - first:
+      213: 7235689305282024587
+    second: "Men\xFA_74"
+  - first:
+      213: 7917473774070145261
+    second: "Men\xFA_75"
+  - first:
+      213: -7327313667496787530
+    second: "Men\xFA_76"
+  - first:
+      213: 1734557105265532336
+    second: "Men\xFA_77"
+  - first:
+      213: 5742757114155074888
+    second: "Men\xFA_78"
+  - first:
+      213: 1867600568820425925
+    second: "Men\xFA_79"
+  - first:
+      213: -4794237078750164255
+    second: "Men\xFA_80"
+  - first:
+      213: -2934265456743479779
+    second: "Men\xFA_81"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Men\xFA_0"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1960
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136ee3de9b0a9d000800000000000000
+      internalID: 61256790355928625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_1"
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1960
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f76d38eadecd0bc0800000000000000
+      internalID: -3815165869718411273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_2"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1960
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2747a995951bf09e0800000000000000
+      internalID: -1652907540908182414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_3"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1960
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff69170578c0c1fe0800000000000000
+      internalID: -1217084023987136769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_4"
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1960
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13389c6c8c905f410800000000000000
+      internalID: 1510124007985873713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_5"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1960
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51910681dc553230800000000000000
+      internalID: 3617899930628231514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_6"
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1960
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5d8c151b006d730800000000000000
+      internalID: 4023404078683444700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_7"
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1960
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c392ccebf89c00b0800000000000000
+      internalID: -5761061615537318970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_8"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1960
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83de3b9538bcf5ee0800000000000000
+      internalID: -1270072804889072328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_9"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1960
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db88fc9b88f9d0520800000000000000
+      internalID: 2669965563682326717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_10"
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1960
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151160cf8e513a680800000000000000
+      internalID: -8745121961018519215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_11"
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1856
+        width: 440
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96c97c6705ee4190800000000000000
+      internalID: -7976186069979117925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_12"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1904
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcded3021aeb2340800000000000000
+      internalID: 4840219587634978034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_13"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1904
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe930d398f292de90800000000000000
+      internalID: -7002372874278258193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_14"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1904
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b6361e53a05a00800000000000000
+      internalID: 743273563011068910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_15"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1904
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e0678b2e290bb00800000000000000
+      internalID: 842334632773291557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_16"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1904
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ce10a50c6b1bf50800000000000000
+      internalID: 6895493441740991493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_17"
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1904
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8567e9efa5f915a0800000000000000
+      internalID: -6549934047141337714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_18"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1904
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bedc919f24e5140800000000000000
+      internalID: 4710275897923332886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_19"
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1904
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45340a4e7cd9ce9b0800000000000000
+      internalID: -5049487600329407660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_20"
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1904
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb33efaa75d7d12e0800000000000000
+      internalID: -2153427231328816196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_21"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1904
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc827bc67ee479b0800000000000000
+      internalID: -5083175885407613702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_22"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1904
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febe1469578c82930800000000000000
+      internalID: 4118762266587950063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_23"
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1904
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b809ad58ab2fb0800000000000000
+      internalID: -4671455068245411839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_24"
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1904
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed1fdc73ad2397d0800000000000000
+      internalID: -2912934353780662816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_25"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1696
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedee09c8062829a0800000000000000
+      internalID: -6257709863056511508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_26"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1696
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264525e26da6c2420800000000000000
+      internalID: 2606575752473367650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_27"
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1696
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0681a1b4ce766dd10800000000000000
+      internalID: 2150020136685934688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_28"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1696
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42d25131c37be730800000000000000
+      internalID: 4029441565206434380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_29"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1696
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445c0173bba078a60800000000000000
+      internalID: 7676115889075307844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_30"
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1680
+        width: 440
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746f5c89a34a33c00800000000000000
+      internalID: 879226923845547591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_31"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1480
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85401594826ddce60800000000000000
+      internalID: 7984273182914839640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_32"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1480
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f990ea20784df20800000000000000
+      internalID: 3446528060424822582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_33"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1480
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0565257e3df88a730800000000000000
+      internalID: 4010613608455231056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_34"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1480
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9145e8be5bd5ad310800000000000000
+      internalID: 1430558867565990937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_35"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1480
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cff9955d54f75b80800000000000000
+      internalID: -8405981497758449719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_36"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1480
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de67a531a4c1e0270800000000000000
+      internalID: 8218537474475587309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_37"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1480
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426922d4a70567aa0800000000000000
+      internalID: -6163650553799600604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_38"
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1480
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a0aab4839cbb820800000000000000
+      internalID: 2935160825786796661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_39"
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1496
+        width: 440
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214994fefa0358cc0800000000000000
+      internalID: -3709505185877748718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_40"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1280
+        width: 320
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab01aba8b94267650800000000000000
+      internalID: 6230207384979640506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_41"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1280
+        width: 320
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893dad4b8d0e0e0f0800000000000000
+      internalID: -1089623888471862376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_42"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1296
+        width: 448
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d6f3ced2ca358d0800000000000000
+      internalID: -2858752025213047493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_43"
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1296
+        width: 448
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eebcd727e320eb0800000000000000
+      internalID: -4755169595092111723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_44"
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1224
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f171d9dbce8c2380800000000000000
+      internalID: -8994657349581835787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_45"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1104
+        width: 320
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7a8dd277737a570800000000000000
+      internalID: 8477805808558057451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_46"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1104
+        width: 320
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bd65cbb77ed7e80800000000000000
+      internalID: -8179126829608150173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_47"
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fb8dc490568e7a0800000000000000
+      internalID: -6347712584160329899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_48"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed14ce85fb69790800000000000000
+      internalID: -7523615738834067908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_49"
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1112
+        width: 440
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d84f8a7600e8a0800000000000000
+      internalID: -6278010757094778763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_50"
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1024
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47fe0b611da9eb60800000000000000
+      internalID: 7775936521954064205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_51"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 856
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742bf03d0c8140210800000000000000
+      internalID: 1298189809043354183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_52"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 856
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feae77430c9a29030800000000000000
+      internalID: 3500046503399385839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_53"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 856
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f041eb185dd3b7d0800000000000000
+      internalID: -2903733964229230346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_54"
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 856
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e115e3739528450800000000000000
+      internalID: 6089527739961908856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_55"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 808
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca26c4ae0e7e0bf80800000000000000
+      internalID: -8092713577195216212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_56"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 808
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66befc7d4ccb17960800000000000000
+      internalID: 7598061599971076966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_57"
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 808
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533529f230a6f6180800000000000000
+      internalID: -9119954158486400203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_58"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 808
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650d19a478da98ee0800000000000000
+      internalID: -1258283824290082730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_59"
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 808
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c26bab7f053d5990800000000000000
+      internalID: -7395696672456875319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_60"
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 824
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283171b409e8ec8d0800000000000000
+      internalID: -2824163165928483966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_61"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 616
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cea0056ceff6fe70800000000000000
+      internalID: 9148781083821649601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_62"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 616
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746af7ecbaa1d8110800000000000000
+      internalID: 1264696395567179335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_63"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 616
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbe00a76d390ffe0800000000000000
+      internalID: -1157262554855052339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_64"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 616
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8e31412d71bcb40800000000000000
+      internalID: 5461485164164278521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_65"
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 496
+        width: 440
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a09c979146de6650800000000000000
+      internalID: 6228150911904813219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_66"
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 624
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a466ec5bc06d53860800000000000000
+      internalID: 7509143303788324426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_67"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 352
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be84c5b207a5a120800000000000000
+      internalID: 2424527604490210993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_68"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 352
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7321700c7d79459e0800000000000000
+      internalID: -1633513811933195721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_69"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 352
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f934debb60bdaf310800000000000000
+      internalID: 1439703852867470239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_70"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 352
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32ddc95c226cbea0800000000000000
+      internalID: -5855697472863743425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_71"
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 352
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f66b59b90989850800000000000000
+      internalID: 6384011469703770007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_72"
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 352
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59002179a25820220800000000000000
+      internalID: 2450667565212631189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_73"
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 352
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b28a8bd1497aa680800000000000000
+      internalID: -8743042402823273800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_74"
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 336
+        width: 440
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b849d6a36155a6460800000000000000
+      internalID: 7235689305282024587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_75"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 128
+        width: 528
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de02cede27480ed60800000000000000
+      internalID: 7917473774070145261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_76"
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 128
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b14dfa8a07205a90800000000000000
+      internalID: -7327313667496787530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_77"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 128
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd5bf54f72621810800000000000000
+      internalID: 1734557105265532336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_78"
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 120
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8458f8c3b2f52bf40800000000000000
+      internalID: 5742757114155074888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_79"
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 120
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4ebd682dc0be910800000000000000
+      internalID: 1867600568820425925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_80"
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 120
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea071027c2777db0800000000000000
+      internalID: -4794237078750164255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Men\xFA_81"
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 120
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d160b1e0d156747d0800000000000000
+      internalID: -2934265456743479779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

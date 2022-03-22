@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1444586190511493278}
   - component: {fileID: 7034943385126336048}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tiles-Sheet_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -68,8 +68,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 612084989
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -3018407562775558514, guid: 25b79fa1d14ab9947a23fe75b407862f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -92,7 +92,7 @@ GameObject:
   m_Component:
   - component: {fileID: 498691974505992878}
   - component: {fileID: 7000356546130605862}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tiles-Sheet_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -150,8 +150,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 612084989
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -989895776875728223, guid: 25b79fa1d14ab9947a23fe75b407862f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -174,7 +174,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2760949768156791763}
   - component: {fileID: 1328664548544871321}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tiles-Sheet_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -232,8 +232,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 612084989
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 282952652117209374, guid: 25b79fa1d14ab9947a23fe75b407862f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -256,7 +256,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5972660645932464576}
   - component: {fileID: 4215295208949603879}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tiles-Sheet_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -314,8 +314,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 612084989
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -4176062618086990820, guid: 25b79fa1d14ab9947a23fe75b407862f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -338,7 +338,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7297602299394169612}
   - component: {fileID: 6278459670878839369}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tiles-Sheet_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -396,8 +396,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 612084989
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 3621601570889756760, guid: 25b79fa1d14ab9947a23fe75b407862f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -421,7 +421,7 @@ GameObject:
   - component: {fileID: 6750631004819032057}
   - component: {fileID: -786586030662960084}
   - component: {fileID: 4946780333233380213}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PlatformA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -471,7 +471,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 5167318976189295970}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 1ec222c7ca55782409a1f1137d821fa1, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -498,7 +498,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3102844368022687267}
   - component: {fileID: 7674922634858037091}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tiles-Sheet_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -556,8 +556,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 612084989
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -8310998624700051391, guid: 25b79fa1d14ab9947a23fe75b407862f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
