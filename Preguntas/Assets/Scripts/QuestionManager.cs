@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -13,7 +13,9 @@ public class QuestionManager : MonoBehaviour
     public Text button0;
     public Text button1;
     public Text button2;
-    public Text button3;
+	public Text button3;
+    
+	public Animator carita;
 
     
     public RectTransform[] tbuttons = new RectTransform[4];
@@ -43,7 +45,8 @@ public class QuestionManager : MonoBehaviour
             button0.text = question.questions[randomNum][1];
             button1.text = question.questions[randomNum][2];
             button2.text = question.questions[randomNum][3];
-            button3.text = question.questions[randomNum][4];
+	        button3.text = question.questions[randomNum][4];
+	        CaritaDrawer(question.questions[randomNum][5]);
             question.quitQuestion(randomNum);
         }
 
@@ -56,7 +59,28 @@ public class QuestionManager : MonoBehaviour
         
 
     }
-
+    
+	void CaritaDrawer(string dificultad){
+		
+		
+		switch (int.Parse(dificultad)){
+			
+		case 0:
+			carita.Play("CaritaFeliz");
+			break;
+		
+		
+		case 1:
+			carita.Play("CaritaTriste");
+			break;
+		
+		case 2:
+			carita.Play("CaritaEnojada");
+			break;
+	}
+			
+		
+	}
     public void RandomizeButtons()
     {
          for (int i = 0; i<=3;i++) {

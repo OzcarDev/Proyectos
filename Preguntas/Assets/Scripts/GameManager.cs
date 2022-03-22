@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -7,7 +7,10 @@ public class GameManager : MonoBehaviour
 {
    public float totalTime;
     public Text counter;
-    public string scene;
+	public string scene;
+	public Animator carita;
+    
+    
     void Start()
     {
         GameGlobals.totalTime = totalTime;
@@ -23,7 +26,14 @@ public class GameManager : MonoBehaviour
             SceneManager.LoadScene(scene);
         }
         
+	  
     }
+    
+	
+		
+		
+		
+	
 
     void Countdown()
     {
