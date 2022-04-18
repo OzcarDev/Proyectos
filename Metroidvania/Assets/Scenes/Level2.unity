@@ -1308,6 +1308,8 @@ MonoBehaviour:
   jumpBufferLength: 0.15
   groundCheckPoint: {fileID: 1962962958}
   groundCheckSize: {x: 0.54, y: 0.03}
+  animation: {fileID: 762658805}
+  isAttacking: 0
 --- !u!1 &1452529243
 GameObject:
   m_ObjectHideFlags: 0

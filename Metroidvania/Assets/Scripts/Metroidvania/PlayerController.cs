@@ -24,7 +24,9 @@ public class PlayerController : MonoBehaviour
 	public Transform groundCheckPoint;
 	[SerializeField] Vector2 groundCheckSize;
 	
-    
+	[Header("For Animation")]
+	public Animator animation;
+	public bool isAttacking;
     void Start()
     {
         
@@ -35,12 +37,24 @@ public class PlayerController : MonoBehaviour
     {
 	    horizontal = Input.GetAxisRaw("Horizontal");
 	    Jump();
+	    if(Input.GetButtonDown("Fire1")){
+		    
+		    StartCoroutine(   Attack());
+	    }
     }
     
 	void FixedUpdate(){
 		HorizontalMove();
 	}
     
+    
+	IEnumerator Attack(){
+	
+		animation.Play("Attack");
+		isAttacking = true;
+		yield return new WaitForSeconds(0.3f);
+		isAttacking = false;
+		}
     
 	void Jump(){
 		CheckGround();
@@ -51,11 +65,23 @@ public class PlayerController : MonoBehaviour
 			jumpBufferCounter = jumpBufferLength;
 		} else { jumpBufferCounter -= Time.deltaTime;}
 		
-		if(jumpBufferCounter>0&&coyoteTimeCounter>0){
+		if((jumpBufferCounter>0&&coyoteTimeCounter>0)){
 			rb.AddForce(Vector2.up*jumpForce, ForceMode2D.Impulse);
 			jumpBufferCounter = 0;
 			coyoteTimeCounter = 0;
 			
+			
+		} 
+		
+		if((Input.GetButtonDown("Jump")||Input.GetKeyDown(KeyCode.W)||Input.GetKeyDown(KeyCode.UpArrow))&&!grounded&&coyoteTimeCounter<0){
+			if(doubleJump){
+				rb.velocity = Vector2.zero;
+				rb.AddForce(Vector2.up*jumpForce, ForceMode2D.Impulse);
+				doubleJump = false;
+				
+			}
+		
+		
 		}
 		
 		if((Input.GetButtonUp("Jump")|| Input.GetKeyUp(KeyCode.W))&& rb.velocity.y > 0)
@@ -73,12 +99,15 @@ public class PlayerController : MonoBehaviour
 		grounded = Physics2D.OverlapBox(groundCheckPoint.position,groundCheckSize,0,capaSuelo);
 		
 		if(grounded){
+			
 			coyoteTimeCounter = coyoteTime;
 			doubleJump = true;
 		} 
 		else if(!grounded){
 			coyoteTimeCounter -= Time.deltaTime;
-			
+			if(!isAttacking){
+				animation.Play("Jump");
+			}
 		}
 	}
     
@@ -90,6 +119,12 @@ public class PlayerController : MonoBehaviour
 		else if(horizontal>0.0f)transform.localScale = new Vector3(1,1,1);
 		
 		rb.velocity = new Vector2(horizontal*speed,rb.velocity.y);
+		
+		if(horizontal == 0.0f&&grounded&&!isAttacking){
+			animation.Play("Idle");
+		} else if(horizontal!=0.0f&&grounded&&!isAttacking){
+			animation.Play("Run");
+		}
 		
 	}
 	
