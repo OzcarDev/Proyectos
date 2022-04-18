@@ -1,6 +1,6 @@
 
 
-public class Globals 
+public class Globals //Variables globales que se usan en todos los scripts
 {
     public static string operation;
     public static double num1, num2;
