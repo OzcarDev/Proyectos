@@ -24,6 +24,10 @@ public class PlayerController : MonoBehaviour
 	public Transform groundCheckPoint;
 	[SerializeField] Vector2 groundCheckSize;
 	
+	[Header("For Attack")]
+	public GameObject attackCollider;
+	
+	
 	[Header("For Animation")]
 	public Animator animation;
 	public bool isAttacking;
@@ -52,8 +56,10 @@ public class PlayerController : MonoBehaviour
 	
 		animation.Play("Attack");
 		isAttacking = true;
+		attackCollider.SetActive(true);
 		yield return new WaitForSeconds(0.3f);
 		isAttacking = false;
+		attackCollider.SetActive(false);
 		}
     
 	void Jump(){

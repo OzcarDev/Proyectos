@@ -6,6 +6,7 @@ TagManager:
   tags:
   - PlatformDestroyer
   - Enemy
+  - Attack
   layers:
   - Default
   - TransparentFX
@@ -51,4 +52,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 3587501455
+    locked: 0
+  - name: Enemy
+    uniqueID: 4043862933
     locked: 0
