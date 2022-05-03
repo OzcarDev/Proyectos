@@ -31,6 +31,10 @@ public class PlayerController : MonoBehaviour
 	[Header("For Animation")]
 	public Animator animation;
 	public bool isAttacking;
+	
+	public int life;
+	public bool isDamaged;
+	public SpriteRenderer sprite;
     void Start()
     {
         
@@ -56,6 +60,7 @@ public class PlayerController : MonoBehaviour
 	
 		animation.Play("Attack");
 		isAttacking = true;
+		yield return new WaitForSeconds(0.1f);
 		attackCollider.SetActive(true);
 		yield return new WaitForSeconds(0.3f);
 		isAttacking = false;
@@ -139,4 +144,20 @@ public class PlayerController : MonoBehaviour
 		Gizmos.color = Color.red;
 		Gizmos.DrawCube(groundCheckPoint.position,groundCheckSize);
 	}
+	
+	public IEnumerator Dead(){
+		
+		Destroy(this.gameObject);
+		yield return new WaitForSeconds(0.03f);
+	}
+	
+	public IEnumerator Damage(){
+		Color colorInicial= sprite.material.color;
+		sprite.material.color = Color.red;
+		isDamaged = true;
+		yield return new WaitForSeconds(0.3f);
+		isDamaged = false;
+		sprite.material.color = colorInicial;
+		
+	} 
 }

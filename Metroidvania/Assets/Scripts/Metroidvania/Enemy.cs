@@ -16,8 +16,15 @@ public class Enemy : MonoBehaviour
 			
 			life--;		
 			StartCoroutine(Damage());
+			if(life<=0)StartCoroutine(Dead());
 			Debug.Log(life);
 		}	
+	}
+	
+	private IEnumerator Dead(){
+		
+		Destroy(this.gameObject);
+		yield return new WaitForSeconds(0.03f);
 	}
 	
 	
